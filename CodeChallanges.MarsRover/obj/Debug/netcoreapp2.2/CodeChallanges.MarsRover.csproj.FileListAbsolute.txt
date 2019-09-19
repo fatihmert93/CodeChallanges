@@ -1,0 +1,11 @@
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.csprojAssemblyReference.cache
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.csproj.CoreCompileInputs.cache
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.AssemblyInfoInputs.cache
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.AssemblyInfo.cs
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.deps.json
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.runtimeconfig.json
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.runtimeconfig.dev.json
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.dll
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.pdb
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.dll
+/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.pdb

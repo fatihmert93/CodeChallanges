@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ce753f9-ed8f-4ca7-b61d-8a9ddd1d6966" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeChallanges/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/CodeChallanges.MarsRover.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/CodeChallanges.MarsRover.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/CodeChallanges.MarsRover.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/Debug/netcoreapp2.2/CodeChallanges.MarsRover.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.MarsRover/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeChallanges.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+              <folding>
+                <marker date="1568926228253" expanded="true" signature="49:5947" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="69:5940" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="115:160" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="201:775" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="369:765" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="621:710" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="837:966" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="1041:1539" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="1214:1529" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="1596:2172" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="1646:2162" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="2230:2806" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="2280:2796" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="2880:3353" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="2921:3343" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="3429:4151" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="4041:4140" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="4222:4604" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="4263:4569" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="4700:5621" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="4821:5583" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="5658:5809" ph="{...}" />
+                <marker date="1568926228253" expanded="true" signature="5841:5934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1101" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CodeChallanges" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CodeChallanges" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CodeChallanges.MarsRover" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CodeChallanges.MarsRover/bin/Debug/netcoreapp2.2/CodeChallanges.MarsRover.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeChallanges.MarsRover" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ce753f9-ed8f-4ca7-b61d-8a9ddd1d6966" name="Default Changelist" comment="" />
+      <created>1568925378251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568925378251</updated>
+      <workItem from="1568925379385" duration="951000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="951000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1101" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32903865" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903865" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39940536" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" initialLine="17">
+            <startOffsets>
+              <option value="400" />
+            </startOffsets>
+            <endOffsets>
+              <option value="455" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" initialLine="25">
+            <startOffsets>
+              <option value="727" />
+            </startOffsets>
+            <endOffsets>
+              <option value="751" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs</url>
+          <line>114</line>
+          <properties documentPath="$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs" initialLine="114">
+            <startOffsets>
+              <option value="3540" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3621" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeChallanges.MarsRover/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+          <folding>
+            <marker date="1568926228253" expanded="true" signature="49:5947" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="69:5940" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="115:160" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="201:775" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="369:765" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="621:710" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="837:966" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="1041:1539" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="1214:1529" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="1596:2172" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="1646:2162" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="2230:2806" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="2280:2796" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="2880:3353" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="2921:3343" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="3429:4151" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="4041:4140" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="4222:4604" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="4263:4569" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="4700:5621" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="4821:5583" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="5658:5809" ph="{...}" />
+            <marker date="1568926228253" expanded="true" signature="5841:5934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
