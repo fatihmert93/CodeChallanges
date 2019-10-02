@@ -34,13 +34,13 @@ namespace CodeChallanges.MarsRover
 
         private static void ApplyCommand(Position position, char command)
         {
-            var success = TryParseDirection(command.ToString(), out var direction);
-            if (!success)
-                return;
+//            var success = TryParseDirection(command.ToString(), out var direction);
+//            if (!success)
+//                return;
             switch (command)
             {
                 case 'M':
-                    Move(position, direction);
+                    Move(position, position.Direction);
                     break;
                 case 'L':
                     TurnLeft(position);

@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj",
+    "projectUniqueName": "/Users/fatih.mert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj",
     "projectName": "CodeChallanges.MarsRover",
-    "projectPath": "/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj",
-    "outputPath": "/Users/fatihmert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/",
+    "projectPath": "/Users/fatih.mert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/CodeChallanges.MarsRover.csproj",
+    "outputPath": "/Users/fatih.mert/Desktop/Github/CodeChallanges/CodeChallanges.MarsRover/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
